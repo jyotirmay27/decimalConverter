@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="binarydecimal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/binarydecimal_jar</output-path>
+    <root id="archive" name="binarydecimal.jar">
+      <element id="module-output" name="binarydecimal" />
+    </root>
+  </artifact>
+</component>
