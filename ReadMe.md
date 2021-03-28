@@ -1,4 +1,4 @@
-# Repository Management Software
+# Decimal to Binary/Hexadecimal Converter
 
 ## Getting Started
 
